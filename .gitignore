@@ -1,0 +1,12 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build folders and binaries
+build/
+dist/
+*.spec
+
+# VS Code editor settings
+.vscode/
